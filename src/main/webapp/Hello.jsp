@@ -19,6 +19,7 @@
 </head>
 <body>
         <h1 id = "test">This is a IDEA Git Test</h1>
+        <h2>hi</h2>
         <button type="button" onclick = test()>获取h1的内容</button>
 
 </body>
